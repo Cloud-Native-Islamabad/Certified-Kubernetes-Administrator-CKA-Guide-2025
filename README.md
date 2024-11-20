@@ -123,6 +123,3 @@ This guide focuses on the core objectives of the CKA exam. It includes recommend
 - [Mumshad CKA Course](https://kodekloud.com/p/kubernetes-certification-course)  
 - [NANA’s CKA Playlist](https://www.youtube.com)  
 
----
-
-Let me know if you'd like help refining further, or to add additional resources!
